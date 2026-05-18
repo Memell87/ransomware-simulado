@@ -41,11 +41,14 @@ nano teste.txt
 python encrypter.py
 python decrypter.py
 
-🎯 Objetivos de Aprendizagem
+
+### 🎯 Objetivos de Aprendizagem
 Criptografia simétrica
 
 Uso da biblioteca cryptography
+
 Versionamento no GitHub
+
 Documentação técnica
 
 🚨 Nota Importante
