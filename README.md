@@ -42,7 +42,7 @@ python encrypter.py
 python decrypter.py
 
 
-🎯 Objetivos de Aprendizagem
+### 🎯 Objetivos de Aprendizagem
 Criptografia simétrica
 
 Uso da biblioteca cryptography
