@@ -45,9 +45,7 @@ python decrypter.py
 Criptografia simétrica
 
 Uso da biblioteca cryptography
-
 Versionamento no GitHub
-
 Documentação técnica
 
 🚨 Nota Importante
